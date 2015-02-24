@@ -15,8 +15,9 @@ PTG__GetPointColRow(ptg_handle,column,row,&point)
 
 Weitere Programme sind:
 
-ptx2ptg.exe : Konvertierung vom PTX-Format nach PTG
-ptgview.exe : Kleiner 3D-Viewer für eine PTG-Datei (aus LAS-tools)
+   ptx2ptg.exe : Konvertierung vom PTX-Format nach PTG
+
+   ptgview.exe : Kleiner 3D-Viewer für eine PTG-Datei (aus LAS-tools)
 
 
 19.04.2011
